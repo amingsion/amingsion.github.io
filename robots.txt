@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amingsion.github.io/amingsion.txt.gz
+Sitemap: https://amingsion.github.io/app/amingsion.txt.gz
+Sitemap: https://amingsion.github.io/assets/amingsion.txt.gz
+Sitemap: https://amingsion.github.io/css/amingsion.txt.gz
+Sitemap: https://amingsion.github.io/includes/amingsion.txt.gz
+Sitemap: https://amingsion.github.io/item/amingsion.txt.gz
+Sitemap: https://amingsion.github.io/src/amingsion.txt.gz
